@@ -23,7 +23,7 @@ Objectives
 
 What I Did
 - Built an end-to-end Tableau analytics dashboard
-- Cleaned and prepared raw data in Excel**  
+- Cleaned and prepared raw data in Excel 
 - Created **KPIs, maps, scatterplots, bar charts, and trend visuals**  
 - Added **interactive range slider and filters** for exploration  
 
